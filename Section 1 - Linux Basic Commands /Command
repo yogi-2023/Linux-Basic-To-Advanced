@@ -1,1 +1,123 @@
-
+001.cd /
+002.ls 
+003.su student
+004.exit
+005.ls
+006.cd media
+007.cd /home
+008.cd /dev
+009.cd /etc
+010.cd /
+011.ls 
+012.mkdir india
+013.ls
+014.cd india 
+015.cd /india 
+016.ls 
+017.mkdir mumbai
+018.ls
+019.mkdir goa 
+020.ls 
+021.cd goa 
+022.clear 
+023.pwd 
+024.cd ..
+025.cd ..
+026.cd ..
+027.cd /india
+028.pwd 
+029.cd ..
+030.pwd 
+031.cd ..
+032.pwd 
+033.mkdir /usa
+034.ls 
+035.cd /usa 
+036.clear
+037.ls 
+038.cd india
+039.pwd 
+040.cd /india 
+041.ls
+042.cd mumbai
+043.cd /usa
+044.cd /india
+045.cd ..
+046.ls 
+047.cd india
+048.ls 
+049.cd mumbai
+050.ls 
+051.cd bollywood
+052.pwd
+053.cd /usa
+054.pwd
+055.ls
+056.cd /
+057.ls
+058.cd /home 
+059.cd /run
+060.cd /root
+061.pwd 
+062.cd /
+063.pwd 
+064.su student
+065.pwd 
+066.whoami
+067.uname
+068.uname -r
+069.ls 
+070.cd /home 
+071.ls
+072.cd /india 
+073.pwd 
+074.cd /
+075.ls
+076.cd /root 
+077.cd root 
+078.ls 
+080.exit 
+080.cd /home 
+081.ls
+082.useradd kiran
+083.ls 
+084.cd /india/mumbai/bollywood
+085.cd /usa
+086.cd /india/mumbai/bollywood
+087.ls
+088.cd ..
+089.ls
+090.cd ..
+091.ls
+092.cd ..
+093.ls 
+094.pwd 
+095.ls
+096.mkdir chennai
+097.mkdir delhi
+098.ls 
+099.cd mumbai
+100.pwd 
+101.cd /usa
+102.pwd
+103. cd /india/chennai
+104.pwd 
+105.cd
+106.ls
+107.pwd 
+108.su kiran 
+109.cd /india 
+110.pwd 
+111.cd 
+112.pwd 
+113.su student
+114.cd 
+115.pwd
+116.exit 
+117.tree /india 
+118.tree /home 
+119.tree /
+120.date
+122.ls 
+123.pwd 
+124.whoami
